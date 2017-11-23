@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TaskIn</string>
+    <string name="description_google_icon">Google Logo</string>
 </resources>

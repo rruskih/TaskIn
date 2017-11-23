@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956762199424",
+    "project_id": "taskin-186813"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956762199424:android:3264e7bbc74dae2e",
+        "android_client_info": {
+          "package_name": "ru.runa.taskin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956762199424-fmdp6hddqfcs882qrslrbpg8cvtd3fio.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "956762199424-a6n9e8of8rfk8rvkm19u8p1dd61u33f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.runa.taskin",
+            "certificate_hash": "cf8b5c67b26de43bfcc832fbecdec8e43433db24"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr28YqlT-wW85NSQqQIl2o7n860aR4OOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
